@@ -1,6 +1,6 @@
 Reconhecimento de Gestos utilizando MediaPipe e OpenCV
 
-OBS: Este projeto estara sendo utilizado para fins especificos de estudo. Se quiser utilizar como referência de projetos, é altamente recomendável utilizar os proprios Docs do Google e da OpenCV. 
+OBS: Este projeto está sendo utilizado para fins especificos de estudo. Se quiser utilizar como referência de projetos, é altamente recomendável utilizar os proprios Docs do Google e da OpenCV. 
 Links de Estudos Abaixo:
 
 https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer/python?hl=pt-br
